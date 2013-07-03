@@ -1,2 +1,1 @@
-
-common Linux command lines.  A presentation I gave to the office.
+common Linux command line operations.  A presentation I gave to the office.
